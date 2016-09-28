@@ -9,9 +9,8 @@
             "email": "lattespirit@gmail.com"
         }
     ],
-    "minimum-stability": "dev",
     "require": {
-        "lattespirit/composer": "@dev"
+        "lattespirit/composer": "dev-master"
     },
     "autoload": {
         "psr-0": {
