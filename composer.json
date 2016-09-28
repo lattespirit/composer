@@ -9,7 +9,10 @@
             "email": "lattespirit@gmail.com"
         }
     ],
-    "require": {},
+    "minimum-stability": "dev",
+    "require": {
+        "lattespirit/composer": "@dev"
+    },
     "autoload": {
         "psr-0": {
             "HelloWorld": "src/"
