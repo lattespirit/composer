@@ -1,11 +1,11 @@
 <?php 
 
-namespace HelloWorld;
+namespace Latte\HelloWorld;
 
 class SayHello
 {
     public static function world()
     {
-            return 'Hello World, Composer!' . PHP_EOL;
-        }
+        return 'Hello World, Composer!' . PHP_EOL;
+    }
 }
