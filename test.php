@@ -3,6 +3,6 @@
 require_once 'vendor/autoload.php';
 
 
-use HelloWorld\SayHello;
+use Latte\HelloWorld\SayHello;
 
 echo SayHello::world();
